@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392755222562",
+    "project_id": "doluuniem-3dfab",
+    "storage_bucket": "doluuniem-3dfab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392755222562:android:b6b84ea6d8d4a7e18f127b",
+        "android_client_info": {
+          "package_name": "com.example.shoestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjgz0_8jaUPwH9ocQ3qFQdsLm9HCLf8l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
